@@ -1,4 +1,6 @@
 public class countBinary {
+
+    // finding the lastmost bit of a number 
     static int binaryCount(int n) {
         int count = 0;
         while (n > 0) {
