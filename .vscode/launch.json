@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "program7",
+            "request": "launch",
+            "mainClass": "NumberSystem.program7",
+            "projectName": "DSA IN JAVA_ba985ab6"
+        },
+        {
+            "type": "java",
+            "name": "program6",
+            "request": "launch",
+            "mainClass": "NumberSystem.program6",
+            "projectName": "DSA IN JAVA_ba985ab6"
+        },
+        {
+            "type": "java",
+            "name": "program5",
+            "request": "launch",
+            "mainClass": "NumberSystem.program5",
+            "projectName": "DSA IN JAVA_ba985ab6"
+        },
+        {
+            "type": "java",
+            "name": "program4",
+            "request": "launch",
+            "mainClass": "NumberSystem.program4",
+            "projectName": "DSA IN JAVA_ba985ab6"
+        },
+        {
+            "type": "java",
+            "name": "program3",
+            "request": "launch",
+            "mainClass": "NumberSystem.program3",
+            "projectName": "DSA IN JAVA_ba985ab6"
+        },
+        {
+            "type": "java",
+            "name": "program2",
+            "request": "launch",
+            "mainClass": "NumberSystem.program2",
+            "projectName": "DSA IN JAVA_ba985ab6"
+        },
+        {
+            "type": "java",
             "name": "recFibo",
             "request": "launch",
             "mainClass": "recFibo",
