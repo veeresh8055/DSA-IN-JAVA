@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Patterns.Pattern",
+            "projectName": "DSA IN JAVA_ba985ab6"
+        },
+        {
+            "type": "java",
+            "name": "pattern",
+            "request": "launch",
+            "mainClass": "Patterns.pattern",
+            "projectName": "DSA IN JAVA_ba985ab6"
+        },
+        {
+            "type": "java",
+            "name": "pattern2",
+            "request": "launch",
+            "mainClass": "Patterns.pattern2",
+            "projectName": "DSA IN JAVA_ba985ab6"
+        },
+        {
+            "type": "java",
+            "name": "pattern1",
+            "request": "launch",
+            "mainClass": "Patterns.pattern1",
+            "projectName": "DSA IN JAVA_ba985ab6"
+        },
+        {
+            "type": "java",
             "name": "program7",
             "request": "launch",
             "mainClass": "NumberSystem.program7",
