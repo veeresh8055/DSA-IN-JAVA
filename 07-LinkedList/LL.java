@@ -48,7 +48,7 @@ class LL {
         }
 
         Node currNode = head;
-        while (currNode.next != null) {
+        while (currNode != null) {
             System.out.print(currNode.data + " --> ");
             currNode = currNode.next;
         }
